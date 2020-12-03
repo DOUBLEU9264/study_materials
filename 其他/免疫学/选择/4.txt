@@ -1,0 +1,87 @@
+﻿1.肝功能不良时，合成受影响较小的蛋白质是
+A.清蛋白  B.凝血因子Ⅱ、Ⅷ等  C.免疫球蛋白  D.白蛋白  E.凝血酶原和白蛋白
+2.下列哪种物质中不含抗体
+A. 抗毒素血清  B.胎盘球蛋白  C.淋巴细胞抗血清  D.植物血凝素  E.白喉抗毒素
+3.免疫球蛋白分子四条多肽链之间的连接形式为
+A.二硫键  B.极性结合  C.氢键  D.范德华力  E.非共价键
+4.抗体与抗原结合的部位是
+A.CH区  B.VH区  C.CL区  D.VL区  E.VH与VL区
+5.决定Ig类别的抗原决定簇存在于Ig分子的
+A.轻链恒定区  B.轻链可变区  C.重链铰链区  D.重链恒定区  E.重链可变区
+6.5种免疫球蛋白的划分是根据
+A.H链和L链均不同  B.V区不同  C.L链不同  D.H链不同  E.连接H链的二硫键位置和数目不同 
+7.拥有4个重链恒定区的免疫球蛋白包括
+A.IgG和IgE  B.IgA和IgE  C.IgD和IgM  D.IgM和IgE  E.IgG和IgM
+8.IgG的铰链区位于
+A.VH与CH1之间  B.CH1与CH2之间  C.CH2与CH3之间  D.CH3与CH4之间  E.VH与CH之间
+9.合成SIgA  J链的细胞是
+A.巨噬细胞  B.血管内皮细胞  C.浆细胞  D.黏膜上皮细胞  E.Th细胞
+10.具有J链的免疫球蛋白是
+A.IgG1  B.IgG4  C.SIgA  D.IgE  E.IgD
+11.合成SIgA分泌片的细胞是  
+A.巨噬细胞  B.血管内皮细胞  C.浆细胞  D.黏膜上皮细胞  E.肥大细胞
+12.连接SIgA二聚体的结构是
+A.二硫键  B.共价键  C.分泌片  D.J链  E.铰链区
+13.可将IgG水解成F(ab’)2的酶是 
+A.胃蛋白酶  B.链激酶  C.木瓜蛋白酶  D.胰蛋白酶  E.溶菌酶
+14.免疫球蛋白的Fab片段能够
+A.激活补体  B.结合抗原  C.结合细胞  D.通过胎盘  E.结合受体
+15.新生儿通过自然被动免疫可以从母体获得的免疫球蛋白包括
+A.IgM和IgE  B.IgG和IgD  C.IgG和IgE  D.IgM和IgG  E.IgG和SIgA
+16.下列哪种细胞具有IgE FcR
+A.平滑肌细胞  B.嗜碱性粒细胞  C.中性粒细胞  D.单核细胞  E.血管内皮细胞
+17.下列哪种作用没有抗体参与？
+A. ADCC作用  B.补体经典途径激活  C.免疫调理作用  D.Th细胞的活化  E.毒素中和作用
+18.能与补体Clq结合的免疫球蛋白是
+A.IgE和IgD  B.IgA和IgG  C.IgG和IgM  D.IgM和IgE  E.IgM和IgA
+19.能与NK细胞、巨噬细胞表面的Fc受体结合并介导ADCC效应的主要Ig是
+A.IgA  B.IgM  C.IgG  D.IgD  E.IgE
+20.以下关于IgG 生物学特性的错误叙述是
+A.能通过胎盘  B.能激活补体  C.能发挥调理作用  D.中和抗原  E.是参与I 型超敏反应的主要 Ig  
+21.来自母体，能引起新生儿溶血症的Rh血型抗体的类别是
+A、IgG  B、IgA  C、IgM  D、IgD  E、IgE
+22.正常人血清中含量最高的免疫球蛋白是
+A.SIgA  B.IgG  C.IgM  D.IgD  E.IgE
+23.人体内抗病毒、中和毒素、抗真菌最重要的抗体类别是
+A.IgA  B.IgM  C.IgG  D.IgE  E.IgD
+24.在胎儿发育晚期就能够合成的免疫球蛋白是
+A.IgG  B.IgM  C.IgE  D.lgD  E.SIgA
+25.与抗原结合后，激活补体能力最强的Ig是
+A.IgA  B.IgD  C.IgM  D.IgG  E.IgE
+26.脐血中哪类Ig增高提示胎儿有宫内感染？
+A.IgA  B.IgM  C.IgG  D.IgD  E.IgE
+27.天然ABO血型抗体属于
+A.IgA  B.IgM  C.IgG  D.IgD  E.IgE
+28.机体初次受微生物感染时，血中最先增高的免疫球蛋白是
+A.IgA  B.IgG  C.IgM  D.IgE  E.IgD
+29.IgM的实际抗原结合价一般是
+A.两价  B.四价  C.五价  D.七价  E.十价
+30.接种疫苗后首先产生的抗体一般是
+A.IgM  B.IgG  C.IgA  D.IgE  E.IgD
+31.下列关于IgM的叙述错误的是
+A.是相对分子量最大的一类Ig  B.激活补体能力比IgG强  C.是五聚体  D.血清中IgM含量升高提示有近期感染  E.是唯一能通过胎盘的抗体
+32.巨球蛋白血症患者血清中异常增多的免疫球蛋白是
+A.IgG  B.IgM  C.SIgA  D.IgE  E.IgD
+33.在局部黏膜抗感染免疫中发挥重要作用的免疫球蛋白是  ’
+A.IgG  B.IgM  C.IgE  D.lgD  E.SIgA
+34.正常人体外分泌液中的主要抗体类别是
+A.SIgA  B.IgG  C.IgM  D.IgD  E.IgE
+35.口服脊髓灰质炎疫苗后，肠内含量明显升高的免疫球蛋白是
+A.SIgA  B.IgD  C.IgG  D.IgM  E.IgE
+36.成熟B细胞膜表面Ig主要的类别是
+A.IgG和IgE  B.IgA和IgE  C.IgD和IgM  D.IgM和IgE  E.IgG和IgM
+37.关于IgE的正确描述是
+A.可介导I型超敏反应  B.能通过胎盘  C.由黏膜上皮细胞产生  D.可通过经典途径激活补体  E.具有调理作用
+38.能与肥大细胞表面FcεRI结合的免疫球蛋白是
+A.IgG  B.IgM  C.IgE  D.IgD  E.SIgA
+39.具有亲细胞作用的抗体是
+A.IgM  B.IgG  C.IgE  D. lgD  E.sIgA
+40.感染寄生虫时，人体内含量明显升高的免疫球蛋白是
+A.IgA  B.  IgM  C.  IgC  D.IgD  E.IgE
+41.下列关于Ig的描述，正确的是哪项
+A.具有抗原性  B.IgM中含分泌片  C.IgD构成的免疫复合物可通过C1q激活补体  D.lg有K和入两类重链  E.以上都是正确的
+42.以下哪种不是单克隆抗体的特点?
+A.识别一种抗原表位  B.来源广泛，制备容易  C.纯度高  D.效价高  E.特异性强
+
+参考答案
+1.C  2.D  3.A  4.D  5.E  6.D  7.D  8.B  9.C  10.C  11.D  12.D  13.A  14.B  15.E  16.B  17.D  18.C  19.C  20.E  21.A  22.B  23.C  24.B  25.C  26.B  27.B  28.C  29. C  30.A  31.E  32.B  33.E  34.A  35.A  36.C  37.A  38.C  39.C  40.E  41.A  42.B

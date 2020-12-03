@@ -1,0 +1,38 @@
+﻿1.人类B细胞分化成熟的场所是
+A.胸腺  B.骨髓  C.法氏囊  D.淋巴结  E.脾
+2.与mlg共同组成BCR复合物的是
+A.CDl9和CD21  B.CD28和CDl52  C.CD79a和CD79b  D.CD80和CD86  E.CD40和CD40L
+3.鉴别B1细胞和B2细胞表面的主要标志是
+A.CD4  B.CD8  C.CD5  D.CD28  E.CD40
+4.恒定地表达于成熟B细胞上的协同刺激分子是
+A.CD40  B.CD40L  C.CDl52  D.CD28  E.CD5
+5.B1细胞接受碳水化合物刺激后，产生的抗体主要是
+A.  高亲和力IgG  B.高亲和力IgM  C.低亲和力IgG  D.低亲和力IgM  E.低亲和力IgA
+6.BCR识别抗原的特点是
+A.受MHCI类分子的限制  B.受MHCII类分子的限制  C.识别抗原需要抗原提呈  D.可直接捕获外源性抗原  E.需要Th2细胞的辅助
+7. 下列分子中为B细胞活化提供重要协同刺激信号的分子是
+A. CD2  B. CD40  C. CD27  D. CD70  E. CD22
+8. 机体内存在的天然抗体是由下列哪类细胞产生
+A. B2细胞  B. CD4+T细胞  C. B1细胞  D. CD8 +T细胞  E. NK细胞
+9.可刺激成熟B细胞增殖和(或)分化的细胞因子是
+A.IL-12  B.IL-8  C.TGF-β  D.G-CSF  E.IL-4
+10.不成熟B 细胞表达的mlg主要为
+A.mlgA  B.mIgM  C.mIgD  D.mIgG  E.mlgE
+11.活化的B细胞为抗原提呈细胞，可通过其BCR直接结合  
+A.各种抗原  B.颗粒性抗原  C.可溶性抗原  D.肿瘤细胞表面抗原  
+12. B细胞共受体中能与抗原-C3d复合物中C3d结合的分子是  
+A. CD19  B. CD21  C. CD81  D. Leu13  E. CD19和CD81
+13. 下列哪个分子是EB病毒的受体
+A. CD19  B. CD21  C. CD81  D. Leu13  E. CD19和CD81
+14.B细胞发育中阴性选择的后果是
+A.表达mlgM  B.细胞发育受阻滞  C.受体编辑  D.自身耐受  E.免疫无能
+15.合成分泌抗体的细胞是
+A.T细胞  B.DC细胞  C NK细胞  D.浆细胞  E.巨噬细胞，
+16.成熟B细胞表面的mlg包括  
+A.mlgM  B.mlgD  C.mlgG  D.mlgM和mlgG  E.mlgM和mlgD
+17.B细胞表面不表达的受体是
+A. BCR  B.HIV受体  C EB病毒受体  D.CRl和CR2  E.FcγRⅡ
+参考答案
+1.B  2.C  3.C  4.A  5.D  6.D  7.B  8.C  9.E  10.B  11.C  12.B  13.B  14.D  15.D  16.E  17. B
+  
+

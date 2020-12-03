@@ -1,0 +1,521 @@
+第一章
+A型题
+1.A 2.B 3.E 4.E
+B型题
+1.C 2.B 3.B 4.C 5.E
+X型题
+1.BCDE 2.ABCDE 3.ABCDE
+
+第二章
+A型题
+1.E 2.D 3.E 4.C 5.E 
+6.D 7.D 8.D 9.B 10.C 
+11.D 12.A 13.C 14.C 15.E 
+16.D 17.C 18.E 19.D 20.A 
+21.B 22.D 23.B 24.C 25.C 
+26.D 27.B28.C 29.B 30.B 
+31.A 32.C 33.D
+B型题
+1.D 2.E 3.E 4.C 5.A 
+6.B 7.E 8.D 9.A 10.A 
+11.D 12.D 13.C 14.B 15.B 
+16.A 17.C 
+X型题
+1.AC 2.AC 3.ABC 4.BCD 5.AC
+6.ABCD 7.ABC 8.ABCD 9.ACD 10.ABC 
+11.ABCD 12.CD 13.ACD 14.ACD 
+
+第三章
+A型题
+1.A 2.C 3.D 4.B 5.A 
+6.E 7.D 8.B 9.A 10.C
+B型题
+1.C 2.E 3.B 4.D 5.B 
+6.D 7.A
+X型题
+1.ACD 2.AC 3.ABCDE
+
+第四章
+A型题
+1.E 2.D 3.B 4.B 5.D 6.D
+B型题
+1.C 2.A 3.E 4.B 5.D
+X型题
+1.ABCD 2.ABCD 3.BCD 4.ABODE
+
+第五章
+A型题
+1.A 2.B 3.B 4.A 5.E 
+6.B 7.A 8.D
+B型题
+1.B 2.D 3.C 4.D 5.E 6.E
+X型题
+1.ABCD 2.ABCDE 3.ABCD 4.ABCD 5.CD 6.CD
+
+第六章
+A型题
+1.B 2.B3.B 4.D 5.E 6.B 7.D
+B型题
+1.A 2.B 3.B 4.A
+X型题
+1.BCD 2.BCD 3.ABCD
+
+第七章
+A型题
+1.A 2.B 3.A 4.E 5.E 
+6.B 7.C 8.D 9.D 10.B 
+11.C 12.D 13.D
+B型题
+1.B 2.A 3.D 4.C 5.B 6.A
+X型题
+1.AD 2.AD 3.AC 4.ABC 5.ABC
+
+第八章
+A型题
+1.A 2.C 3.B 4.C 5.A 
+6.D 7.B 8.C 9.E 10.C 
+11.A 12.D 13.D 14.D 15.D 
+16.C 17.C 18.A
+B型题
+1.B 2.A 3.E 4.D 5.C
+X型题
+1.ABCD 2.ACD 3.ACD 4.BCD 5.BD 
+6.AC 7.ACD 8.AC 9.ABD
+
+第九章
+A型题
+1.D 2.C 3.B 4.E 5.A 
+6.C 7.D 8.B 9.C 10.C 
+11.D 12.A 13.C 14.E15.B 
+16.D 17.B 18.E 19.D 20.C
+B型题
+1.B 2.A 3.C 4.D
+X型题
+1.ABCDE 2.AB 3.ABCE 4.BD 5.ABCE
+
+第十章
+A型题
+1.D 2.C 3.A 4.E 5.C 
+6.A 7.D 8.A 9.D 10.A 
+11.B 12.C 13.B 14.C15.D 
+16.A 17.D 18.B 19.D 20.C 
+21.C 22.D 23.D 24.C 25.C 
+26.D 27.C 28.B
+B型题
+1.A 2.D 3.A 4.E 5.C 
+6.D 7.A 8.B 9.A 10.D 11.E
+X型题
+1.CDE 2.BCDE 3.ABE 4.AC 5.ACE 6.BCE
+
+第十一章
+A型题
+1.C 2.B 3.D 4.B 5.D 
+6.B 7.C 8.E 9.A 10.A 
+11.E 12.D 13.B 14.A
+15.C 16.B
+B型题
+1.A 2.B 3.D 4.C
+X型题
+1.ABDE 2.ABDE 3.ACD 4.ABC 5.BD 
+6.ABCDE 7.BCDE 8.ABCDE
+
+第十二章
+A型题
+1.A 2.D 3.E 4.A 5.B 
+6.A 7.C 8.A
+B型题
+1.B 2.C 3.D 4.A 5.B 6.D
+
+第十三章
+A型题
+1.C 2.A 3.D 4.E 5.A 
+6.B 7.B 8.E 9.A 10.B 
+11.B 12.C 13.C 14.D
+15.D 16.B 17.A 18.D 19.D
+B型题
+1.B 2.C 3.E 4.C 5.B 
+6.D 7.B 8.E 9.C 10.A
+11.C 12.E 13.D 14.C 15.B 16.D
+X型题
+1.ABCDE 2.ACE 3.ACE 4.ACE 5.ACE 
+6.ABDE 7.ACE 8.ABCDE 9.ACE 10.ACE 
+11.ACE 12.BCDE 13.CD 14.ACD 15.AB
+
+第十四章
+A型题
+1.E 2.A 3.E 4.A 5.B 
+6.C 7.B 8.E 9.B 10.D 
+11.D 12.D 13.C 14.C 15.D
+B型题
+1.B 2.C 3.A 4.D 5.B
+X型题
+1.ABCDE 2.ABCDE 3.BCDE 4.ABCE 5.ACD
+
+第十五章
+A型题
+1.A 2.C 3.D 4.B 5.E 6.C 
+7.D 8.B 9.B 10.B
+B型题
+1.A 2.B 3.B 4.C 5.A 6.A 7.B 8.D
+X型题
+1.BCD 2.ACD 3.BDE 4.ABC 5.ABD
+
+第十六章
+A型题
+1.C 2.C 3.B 4.D 5.C 
+6.A 7.D 8.D 9.D 10.B 
+11.A 12.D 13.B 14.C 
+15.B 16.D 17.D
+B型题
+1.B 2.E 3.C 4.D 5.E
+X型题
+1.ACE 2.ABDE 3.BD 4.ACDE 5.ABDE 6.BD
+
+第十七章
+A型题
+1.E 2.B 4.A 5.C 
+6.C 7.A 8.C 9.A 10.B 
+11.C 12.A 13.B 14.A 15.D 
+16.B 18.D 19.C 20.D 21.A 22.D
+B型题
+1.E 2.B 3.A 4.C 5.D
+X型题
+1.BCD 2.ABD 3.BCDE 4.ACDE 5.AC 6.ABCE
+
+第十八章
+A型题
+1.C 2.C 3.A 4.B 5.B 
+6.A 7.C 8.B 9.C 10.B 
+11.D 12.E 13.A 14.A
+B型题
+2.A 3.B 4.D 5.A 
+6.B 7.C 8.E 9.C 10.D 11.B 12.A
+X型题
+1.ABD 2.BC 3.AC 4.ABC 5.ABCD 
+6.BCD 7.ACD 8.ACE 9.BDE 10.ABC 11.ABDE
+
+第十九章
+A型题
+1.A 2.E 3.A 4.B 5.B 
+6.B 7.A 8.E 9.D 10.A 
+11.B 12.B 13.D 14.C 15.E 
+16.B 17.B 18.B 19.A 20.B 
+21.C 22.C 23.D 24.E 25.D 
+26.C 27.D 28.C 29.E
+B型题
+1.E 2.D 3.E 4.A 5.B 
+6.C 7.D 8.A 9.C 10.B 11.A 12.C
+X型题
+13.AE 2.ABC 3.ABC 4.ABC 
+5.AB 6.ACD 7.BD 8.AB 9.ADE 10.ABC
+
+第二十章
+A型题 
+1.A 2.A 3.D 4.C 5.A 
+6.B 7.D 8.D 9.B 10.E 
+11.B 12.C 13.A 14.E 15.A 
+16.E 17.D 18.D 19.B 20.C 
+21.E 22.B 23.E 24.D 25.D 26.A
+B型题
+3.D 4.C 5.B 6.B 7.E 8.A 9.D
+X型题
+1.ACBD 2.ABCE 3.ABC 4.ACD 
+5.CE 6.ACDE 7.AC 8.ACDE 9.ABC
+
+第二十一章
+A型题
+1.B 2.E 3.C 4.D 5.E 
+6.C 7.C 8.A 9.E 10.A 
+11.D 12.E 13.D 14.B 
+B型题
+1.A 2.E 3.B 4.A 5.D 6.B
+X型题
+1.ABCD 2.ABCD 3.AB 4.ACDE
+
+第二十二章
+A型题
+1.c 2.B 3.D 4.E 5.A 
+6.C 7.A 8.C 9.D 10.E 
+11.E 12.C 13.A 14.C 15.A 
+16.B 17.D 18.E 19.C 20.A 
+21.C 22.C 23.D 24.D 25.C 26.C 27.C
+28.D
+B型题
+1.B 2.D 3.A 4.E 5.C
+X型题
+1.ABCD 2.ABCDE 3.BCDE 4.ABCD 5.ABCE 6.CDE
+
+第二十三章
+
+第二十四章
+A型题
+1.C 2.E 3.B 4.A 5.D 
+6.C 7.D 8.B 9.A 10.E 
+11.B 12.C 13.A 14.B 15.A 
+16.D 17.A 18.C 19.A 20.D 
+21.E 22.C 23.B 24.D 25.B 26.E 27.D
+28.B 29.D
+B型题
+1.D 2.D 3.A 4.A 5.D 6.C 7.E 8.C 9.A
+X型题
+1.AD 2.CD 3.BC 4.BCD 5.AB
+
+第二十五章
+A型题
+1.C 2.B 3.B 4.E 5.D 
+6.C 7.C 8.B 9.E 10.D 
+11.A 12.D 13.E 14.B 15.D 
+16.B 17.D 18.C 19.D 20.C 
+21.A 22.A 23.D 24.E 25.D 
+26.D 27.E 28.C
+B型题
+1.E 2.C 3.B 4.A 5.E 6.E 7.C
+X型题
+1.BCD 2.ABCD 3.CD 4.BC 5.AD 6.BCD
+
+第二十六章
+A型题
+1.E 2.B 3.B 4.A 5.B 
+6.C 7.D 8.E 9.C 10.D 
+11.A 12.A 13.C 14.E 15.C 
+16.D 17.B 18.C 19.D 20.C 
+21.E 22.C 23.E 24.D 25.B 
+27.B 28.C 29.D 30.D
+B型题
+1.B 2.C 3.E 4.A 5.B 
+6.D 7.E 8.C.9.A 10.E 
+11.B 12.D 13.A 14.A
+X型题
+3.ACDE 4.ABCD 5.ABCDE 6.AB 7.ABC
+
+第二十七章
+A型题
+1.D 2.A 3.B 4.A 5.E 
+6.E 7.D 8.A 9.B 10.D 
+11.C 12.D 13.C 14.C 15.A 
+16.C 17.E 18.C 19.A 20.B 
+21.B 22.B 23.A 24.E 25.C
+B型题
+1.D 2.E 3.D 4.C 5.B 
+6.E 7.D 8.E 9.B 10.C
+X型题
+1.ACBD 2.ABCE 3.ABC 4.ACD 5.CE
+
+第二十八章
+A型题
+1.E 2.D 3.E 4.D 5.A 
+6.D 7.D 8.B 9.D 10.E 
+11.D 12.E 13.B 14.A 15.B 
+16.C 17.C 18.A 19.E 20.D
+B型题
+1.A 2.B 3.E 4.B 5.A 
+6.D 7.B 8.E
+X型题
+1.BCD 2.ABD 3.ABC 4.ABC 5.ACD 6.ABDE 7.ACD 8.ABCD
+
+第二十九章
+A型题
+1.B 2.D 3.A 4.E 5.B 
+6.C 7.D 8.A 9.C 10.D 
+11.B 12.E 13.A 14.B 15.E 
+16.C 17.A 18.B 19.E 20.C 
+21.D 22.E 23.D 24.D 25.B 
+26.A 27.D 28.D 29.B
+B型题
+1.A 2.C 3.D 4.A 5.D 6.C 7.B 8.D
+X型题
+1.ABD 2.ABCDE 3.ABCD 4.BCDE 5.BCD 6.ABD 7.ABCD
+
+第三十章
+A型题
+1.B 2.C 3.D 4.A 5.C 
+6.B 7.C 8.E 9.D 10.E 11.D
+B型题
+1.E 2.A 3.B 4.C 5.D
+X型题
+1.ABCD 2.AC 3.BCD 4.CE 5.AC
+
+第三十一章
+A型题
+1.E 2.C 3.C 4.C 5.D 
+6.C 7.B 8.C 9.D 10.D 
+11.D 12.B 13.D 14.E
+B型题
+1.E 2.B 3.C 4.D 5.A 
+6.A 7.D 8.C 9.E 10.B
+X型题
+1.ABCD 2.ABC 3.ABCD 4.BCD
+
+第三十二章
+A型题
+1.C 2.E 3.B 4.D 5.C 
+6.A 7.A 8.D9.C 10.C 11.D 12.B
+B型题
+1.E 2.B 3.A 4.C 5.E 6.B 7.A 8.C
+X型题
+1.AC 2.BCD 3.BE 4.BD
+
+第三十三章
+A型题
+1.D 2.D 3.B 4.D 5.E 
+6.D 7.C 8.C 9.E
+B型题
+1.D 2.C 3.A
+X型题
+1.BCD 2.ABD 3.BC
+
+第三十四章
+A型题
+1.C 2.C 3.E 4.C 5.A 6.A 7.A 8.A
+B型题
+1.D 2.B
+X型题
+1.ACD 2.AC
+
+第三十五章
+A型题
+1.D 2.B 3.D 4.B 5.A 
+6.D 7.E 8.A 9.D 10.A 
+11.D 12.B 13.A 14.A 15.C 
+16.D 17.E 18.B 19.E 20.E 
+21.E 22.D 23.D 24.C
+B型题
+1.B 2.D 3.C 4.B 5.A 
+6.A 7.A 8.C 9.B 10.E 
+11.B 12.D 13.D 14.B 15.A 16.B
+X型题
+1.AC 2.ABCDE 3.ACD 4.DE 5.ABCE 
+6.ABE 7.ADE 8.ABCDE 9.AC 10.ABCE 
+11.ABC 12.ABC 13.AC 14.BCD 15.ABCDE
+
+第三十六章
+A型题
+1.C 2.D 3.B 4.C 5.A 
+6.A 7.A 8.D 9.E 10.C 
+11.D 12.D 13.B 14.D
+15.C
+B型题
+1.B 2.C 3.C 4.B 5.C 6.D
+X型题
+1.ABC 2.E 3.CD 4.ABC 5.BDE 6.ABDE 7.ABC
+
+第三十七章
+A型题
+1.B 2.C 3.E 4.A 5.B 
+6.B 7.E 8.E 9.A 10.B 
+11.E 12.A 13.C 14.D 15.B 
+16.C 17.D 18.D 19.D 20.E 
+21.B 22.D 23.C 24.B 25.E 26.A
+B型题
+1.E 2.D 3.C 4.E 5.C 6.A
+X型题
+1.ABC 2.ABCDE 3.ABD 4.ABDE 5.AB 
+6.AC 7.BD 8.BCD
+第三十八章
+A型题
+1.C 2.D 3.B 4.D 5.D 
+6.B 7.E 8.A 9.B 10.C 
+11.E 12.B 13.A 14.D
+15.E 16.C 17.E
+B型题
+1.C 2.D 3.D 4.C 5.E 
+6.C 7.B 8.A 9.D 10.B 11.E 12.A
+X型题
+1.ABCDE 2.ABCDE 3.ABCD 4.AD 5.AC 6.ABCDE
+
+第三十九章
+A型题
+1.C 2.C 3.B 4.D 5.A 
+6.E 7.D 8.B 9.E 10.B 
+11.B 12.D 13.D 14.E 15.C 
+16.C 17.A 18.C 19.D 20.C 
+21.B 22.C 23.A 24.D 25.C 
+26.B 27.D 28.A 29.B 30.A
+B型题
+L A 2.E 3.B 4.A 5.E 
+6.C 7.A 8.B 9.E 10.C 
+11.A 12.D 13.B 14.D 15.C 
+16.A 17.E
+X型题
+1.BCE 2.ABCD 3.ACE 4.ABCDE 
+5.BC 6.ABD 7.ACE 8.BE
+
+第四十章
+A型题
+1.A 2.C 3.D 4.B 5.A 
+6.E 7.B 8.B 9.C 10.C 
+11.B 12.E 13.B 14.D 15.D 16.A 17.D
+B型题
+1.B 2.C 3.D 4.B 5.C
+X型题.
+1.ABD 2.BCD
+
+第四十一章
+A型题
+1.C 2.C 3.A 4.E 5.D 
+6.A 7.C 8.C 9.B 10.B 
+11.B 12.D 13.D 14.B 15.B 
+16.C 17.B 18.D 19.D 20.B
+B型题
+1.E 2.B 3.C 4.A 5.D 
+6.B 7.B 8.E 9.A 10.C
+X型题
+1.BCD 2.AE 3.ABC 4.BCD 5.ABC 6.AB
+
+第四十二章
+A型题
+1.B 2.C 3.D 4.C 5.E 
+6.A 7.C 8.B 9.D 10.A 
+11.A 12.E 13.A 14.C 15.C 16.B
+B型题
+1.E 2.A 3.D 4.B 5.C 6.D 7.B 8.C
+X型题
+1.ABODE 2.ABCDE 3.BCDE 4.ABCD 5.BE 6.BCE 7.BE
+
+第四十三章
+A型题
+1.E 2.E 3.D 4.E 5.B 
+6.C 7.B 8.C 9.A 10.B 
+11.B 12.D 13.D 14.B15.B
+B型题
+1.A 2.C 3.D 4.E 5.B 6.A 7.C
+X型题
+1.ABCDE 2.ACDE 3.ABCDE 4.ABCDE 5.ABDE
+
+第四十四章
+A型题
+1.D 2.D 3.E 4.B 5.A 6.C 7.C 8.A
+B型题
+1.B 2.D 3.A 4.A 5.C 6.D 7.C 8.E
+X型题
+1.BDE 2.ABCD 3.ABDE
+
+第四十五章
+A型题
+1.C 2.A 3.E4.D 5.C6.D 7.D 8.B 9.E
+B型题
+1.A 2.C 3.B4.D 5.B6.A 7.D 8.B
+X型题
+1.CDE 2.ABCDE 3.ABDE 4.AB
+
+第四十六章
+A型题
+1.C 3.D 4.E 5.B 
+6.A 7.D 8.C 9.E 10.E 11.B 12.C
+B型题
+1.A 3.A 4.D 5.D 
+6.C 7.C 8.E 9.B 10.A 11.D 12.E
+X型题
+1.ABC 2.ABCD 3.ABCD 4.BC 5.BCD
+
+第四十七章
+A型题
+1.E 2.B 3.B 4.B 5.D 
+6.C 7.B 8.D 9.E 10.D 
+11.D 12.E 13.D 14.D 15.A 
+16.B 17.E 18.A 19.E 20.C 
+21.C 22.D 23.B 24.B 25.E 26.E 27.A 
+B型题
+1.A 2.B 3.B 4.D 5.C 6.A
+X型题
+1.ACD 2.BCD 3.ABCD 4.ABD

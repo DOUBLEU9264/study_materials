@@ -1,0 +1,24 @@
+﻿1.可抑制Th2细胞生成的细胞因子是
+A.IL-6  B.IL-4  C.IL-5  D.IL-2  E IFN-γ  
+2.可抑制Th1细胞生成的细胞因子是
+A.IL-7  IL-10  B.IL-4  IFN-γ  C.IL-4  IL-7  D.IL-4  IL-10  E.IL-1  IL-10
+3.活化T细胞表达的抑制性受体是
+A.CTLA-4  B.CD94/NKG2A  C.TCR-Iga/Igb  D.FcεR-Ⅰ  E.IL-2R
+4.对细胞免疫应答起负调节作用的细胞因子是
+A.IL-2  IL-4  IL-5  B.IL-2  IL-8  IL-10  C.IL-1  IL-6  TGF-β  D.IL-4  IL-10  TGF-β  E.IL-12  INF-γ  TGF-β
+5.IFN-γ所不具备的作用是
+A.增强Tc与NK细胞的杀伤能力  B.激活巨噬细胞  C.诱导MHC分子的表达  D.促进Th0向Th1分化，抑制Th2生成  E 促进Th0向Th2分化，抑制Th1分化
+6.B细胞表面抑制性受体的负反馈调节作用是通过
+A.BCR与FcγRⅠ交联产生的  B.BCR与FcγRⅡ-B交联产生的  C.BCR与FcγRⅡ-A交联产生的  D.BCR与FcγRI-B交联产生的  E.BCR与FcaR交联产生的
+7.下列不属于免疫细胞抑制受体的是
+A.CTLA-4  B.PD-1  C.FcγRⅡ-B  D.CD94/NKG2A  E.FcγRI
+8.介导活化诱导的细胞死亡（AICD）的细胞有
+A.活化的T细胞  B  活化的巨噬细胞  C活化的中性粒细胞  D.肿瘤靶细胞  E  病毒感染细B胞
+9.抑制性受体胞内段带有
+A.ITAM  B.ITIM  C.DD  D.DED  E.FADD
+10.激活性受体胞内段带有
+A.ITAM  B.ITIM  C.DD  D.DED  E.AICD
+11.对独特型网络调节描述错误的是
+A.B细胞受Ag刺激发生克隆扩增大量分泌Abl  B.大量Abl诱发抗独特型抗体(Ab2)  C.Ab2(包括Ab2α和／Ab2β)负反馈抑制Abl的分泌  D.大量Ab2诱发抗抗独特型抗体(Ab3)，如此反复，构成网络  E.是在抗体分子水平，不适用于TCR及T细胞克隆间的相互作用及其调节
+　参考答案
+1.E  2.D  3.A  4.D  5.E  6.B  7.E  8.A  9.B  10.A  11.E
