@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:内分泌}/mcq.db",
+            "name": "mcq"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
